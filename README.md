@@ -37,10 +37,12 @@ Create and embed charts like bar, pie, or line charts.
 **Merging and Splitting Cells:**
 
 Merge cells into a single cell or unmerge them.
-Handling Filters and Freezing Panes:
+
+**Handling Filters and Freezing Panes:**
 
 Add filters to columns.
 Freeze panes for better readability.
-Working with Styles:
+
+**Working with Styles:**
 
 Define custom styles for rows, columns, or specific cells.
